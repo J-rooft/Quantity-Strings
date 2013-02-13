@@ -19,7 +19,7 @@ public class SampleListFragment extends ListFragment {
         super.onActivityCreated(savedInstanceState);
         
         setListAdapter(new ArrayAdapter<String>(getActivity(),
-                android.R.layout.simple_list_item_multiple_choice, 
+                android.R.layout.simple_list_item_activated_1, 
                 getResources().getStringArray(R.array.colors)));
 
         lv = getListView();
