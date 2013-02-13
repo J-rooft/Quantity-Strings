@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quantity Strings Demo</string>
+
+    <string-array name="colors">
+        <item>amethyst</item>
+        <item>aqua</item>
+        <item>aquamarine</item>
+        <item>azure</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>bronze</item>
+        <item>brown</item>
+        <item>cherry</item>
+        <item>cinnamon</item>
+        <item>copper</item>
+        <item>cyan</item>
+        <item>emerald</item>
+        <item>fuchsia</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>indigo</item>
+        <item>magenta</item>
+        <item>olive</item>
+        <item>pink</item>
+        <item>red</item>
+        <item>ruby</item>
+        <item>silver</item>
+        <item>violet</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+    
+    <plurals name="itemsSelected">
+        <item quantity="one">1 item selected</item>
+        <item quantity="other">%d items selected</item>
+    </plurals>
+
+</resources>
