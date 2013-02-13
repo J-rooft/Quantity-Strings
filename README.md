@@ -5,7 +5,7 @@ The sample project showing how to use [Quantity Strings][1] in Android. It was c
 
 ## License
 
-    Copyright 2012 Ivan Davletshin
+    Copyright 2013 Ivan Davletshin
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
